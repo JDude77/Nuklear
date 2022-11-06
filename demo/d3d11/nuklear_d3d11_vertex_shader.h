@@ -101,7 +101,7 @@
 
 // approximately 8 instruction slots used
 vs_4_0
-dcl_constantbuffer cb0[4], immediateIndexed
+dcl_constantbuffer CB0[4], immediateIndexed
 dcl_input v0.xy
 dcl_input v1.xyzw
 dcl_input v2.xy
